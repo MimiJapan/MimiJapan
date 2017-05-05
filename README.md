@@ -1,2 +1,5 @@
 # MimiJapan
-No,1
+
+Hi everyone!
+
+I like cats.
